@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background: #2e8b57;
+  color: white;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.team {
+  background: #fff;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.members {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.member {
+  background: #e0ffe0;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 200px;
+}
+
+.about {
+  padding: 2rem 1rem;
+  text-align: center;
+  background: #ffffff;
+}
+
+footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
